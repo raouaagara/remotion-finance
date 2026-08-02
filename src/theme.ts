@@ -1,5 +1,5 @@
 export const theme = {
-  bg: "#111111",
+  bg: "#0d0d0d",
   white: "#FFFFFF",
   accent: "#E8303C",
   fontFamily: "'Inter', 'Helvetica Neue', Arial, sans-serif",
