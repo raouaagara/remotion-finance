@@ -51,7 +51,7 @@ export const Intro: React.FC<IntroProps> = ({ produit }) => {
       <h1
         style={{
           color: theme.white,
-          fontSize: 72,
+          fontSize: 76,
           fontWeight: 700,
           letterSpacing: "-1px",
           margin: 0,
