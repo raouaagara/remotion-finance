@@ -38,7 +38,7 @@ export const Intro: React.FC<IntroProps> = ({ produit }) => {
       {/* Accent bar */}
       <div
         style={{
-          width: 80,
+          width: 100,
           height: 4,
           backgroundColor: theme.accent,
           marginBottom: 32,
