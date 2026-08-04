@@ -39,7 +39,7 @@ export const Intro: React.FC<IntroProps> = ({ produit }) => {
       <div
         style={{
           width: 100,
-          height: 4,
+          height: 5,
           backgroundColor: theme.accent,
           marginBottom: 32,
           opacity,
