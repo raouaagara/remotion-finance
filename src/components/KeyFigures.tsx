@@ -52,7 +52,7 @@ const StatCard: React.FC<StatCardProps> = ({ label, value, delay }) => {
       <span
         style={{
           color: theme.accent,
-          fontSize: 80,
+          fontSize: 88,
           fontWeight: 800,
           lineHeight: 1,
           letterSpacing: "-2px",
