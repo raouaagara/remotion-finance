@@ -104,7 +104,7 @@ export const KeyFigures: React.FC<KeyFiguresProps> = ({ taux, duree }) => {
           color: theme.white,
           fontSize: 20,
           fontWeight: 500,
-          letterSpacing: "5px",
+          letterSpacing: "6px",
           textTransform: "uppercase",
           margin: 0,
           opacity: headerOpacity,
