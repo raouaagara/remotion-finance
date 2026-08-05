@@ -65,7 +65,7 @@ const StatCard: React.FC<StatCardProps> = ({ label, value, delay }) => {
           color: theme.white,
           fontSize: 20,
           fontWeight: 400,
-          letterSpacing: "3px",
+          letterSpacing: "4px",
           textTransform: "uppercase",
           marginTop: 16,
           opacity: 0.7,
