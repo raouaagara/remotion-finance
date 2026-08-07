@@ -23,7 +23,7 @@ const StatCard: React.FC<StatCardProps> = ({ label, value, delay }) => {
     frame: localFrame,
     fps,
     config: {
-      damping: 14,
+      damping: 16,
       stiffness: 120,
       mass: 0.8,
     },
