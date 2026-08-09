@@ -91,7 +91,7 @@ export const LegalNotice: React.FC<LegalNoticeProps> = ({ mentionLegale, produit
           bottom: 0,
           left: 0,
           right: 0,
-          backgroundColor: "rgba(232, 48, 60, 0.12)",
+          backgroundColor: theme.accentLight,
           borderTop: `1px solid ${theme.accent}`,
           padding: "20px 72px",
           opacity: legalOpacity,
