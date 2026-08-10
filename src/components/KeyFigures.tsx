@@ -41,7 +41,7 @@ const StatCard: React.FC<StatCardProps> = ({ label, value, delay }) => {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        padding: "48px 64px",
+        padding: "52px 72px",
         border: `2px solid ${theme.accent}`,
         borderRadius: 16,
         minWidth: 320,
