@@ -119,7 +119,7 @@ export const KeyFigures: React.FC<KeyFiguresProps> = ({ taux, duree }) => {
         <div
           style={{
             width: 1,
-            height: 120,
+            height: 140,
             backgroundColor: theme.white,
             opacity: 0.2,
           }}
