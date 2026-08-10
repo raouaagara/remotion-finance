@@ -121,7 +121,7 @@ export const KeyFigures: React.FC<KeyFiguresProps> = ({ taux, duree }) => {
             width: 1,
             height: 120,
             backgroundColor: theme.white,
-            opacity: 0.15,
+            opacity: 0.2,
           }}
         />
         <StatCard label="Durée" value={duree} delay={25} />
