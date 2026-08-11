@@ -105,7 +105,7 @@ export const LegalNotice: React.FC<LegalNoticeProps> = ({ mentionLegale, produit
             fontWeight: 400,
             margin: 0,
             opacity: 0.8,
-            lineHeight: 1.5,
+            lineHeight: 1.6,
           }}
         >
           ⚠️ {mentionLegale}
