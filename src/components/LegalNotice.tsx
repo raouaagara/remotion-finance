@@ -80,7 +80,7 @@ export const LegalNotice: React.FC<LegalNoticeProps> = ({ mentionLegale, produit
             margin: 0,
           }}
         >
-          Disponible dès maintenant
+          Souscription ouverte
         </p>
       </div>
 
