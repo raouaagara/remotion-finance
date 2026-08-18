@@ -113,7 +113,7 @@ export const KeyFigures: React.FC<KeyFiguresProps> = ({ taux, duree }) => {
         Chiffres Clés
       </p>
 
-      <div style={{ display: "flex", gap: 64, alignItems: "center" }}>
+      <div style={{ display: "flex", gap: 72, alignItems: "center" }}>
         {/* Taux card appears at frame 10, durée at frame 25 */}
         <StatCard label="Rendement annuel" value={taux} delay={10} />
         <div
