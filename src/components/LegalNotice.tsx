@@ -48,7 +48,7 @@ export const LegalNotice: React.FC<LegalNoticeProps> = ({ mentionLegale, produit
           display: "flex",
           flexDirection: "column",
           alignItems: "center",
-          gap: 20,
+          gap: 24,
           opacity: contentOpacity,
         }}
       >
