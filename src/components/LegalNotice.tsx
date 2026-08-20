@@ -54,7 +54,7 @@ export const LegalNotice: React.FC<LegalNoticeProps> = ({ mentionLegale, produit
       >
         <div
           style={{
-            width: 60,
+            width: 72,
             height: 3,
             backgroundColor: theme.accent,
           }}
