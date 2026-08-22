@@ -13,3 +13,8 @@
 ## Notes
 - All animations use Remotion spring/interpolate
 - Props driven from data.json at render time
+
+## v1.0.0
+- Complete animation pipeline
+- Theme tokens finalized
+- Data-driven rendering confirmed
