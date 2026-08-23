@@ -12,3 +12,7 @@ npm install
 
 - `npm run studio` — open Remotion Studio
 - `npm run render` — render to out/video.mp4
+
+## Data format
+
+Edit `data.json` to customize the video content.
