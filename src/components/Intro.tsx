@@ -41,7 +41,7 @@ export const Intro: React.FC<IntroProps> = ({ produit }) => {
           width: 100,
           height: 5,
           backgroundColor: theme.accent,
-          marginBottom: 32,
+          marginBottom: 40,
           opacity,
           transform: `translateY(${translateY}px)`,
         }}
