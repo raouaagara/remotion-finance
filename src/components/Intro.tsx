@@ -72,7 +72,7 @@ export const Intro: React.FC<IntroProps> = ({ produit }) => {
           fontWeight: 500,
           letterSpacing: "6px",
           textTransform: "uppercase",
-          marginTop: 24,
+          marginTop: 28,
           opacity,
           transform: `translateY(${translateY}px)`,
         }}
