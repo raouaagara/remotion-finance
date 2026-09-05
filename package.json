@@ -1,7 +1,7 @@
 {
   "name": "remotion-finance",
   "version": "1.0.0",
-  "description": "Automatic financial product video generated from data.json",
+  "description": "Financial product video generator powered by Remotion",
   "scripts": {
     "studio": "npx remotion studio",
     "render": "npx remotion render MyComp out/video.mp4 --props=data.json"
