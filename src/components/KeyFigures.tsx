@@ -25,7 +25,7 @@ const StatCard: React.FC<StatCardProps> = ({ label, value, delay }) => {
     config: {
       damping: 16,
       stiffness: 130,
-      mass: 0.8,
+      mass: 0.9,
     },
   });
 
