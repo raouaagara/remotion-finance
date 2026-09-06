@@ -44,7 +44,7 @@ const StatCard: React.FC<StatCardProps> = ({ label, value, delay }) => {
         padding: "52px 72px",
         border: `2px solid ${theme.accent}`,
         borderRadius: 16,
-        minWidth: 320,
+        minWidth: 340,
         opacity,
         transform: `scale(${scale})`,
       }}
