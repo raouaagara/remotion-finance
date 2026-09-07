@@ -11,7 +11,7 @@ const FPS = 30;
 const INTRO_START = 0;           //  0 s
 const INTRO_DURATION = 3 * FPS;  //  3 s  → frames 0–89
 const KEYS_START = 3 * FPS;      //  3 s
-const KEYS_DURATION = 4 * FPS;   //  4 s  → frames 90–209
+const KEYS_DURATION = 5 * FPS;   //  4 s  → frames 90–209
 const LEGAL_START = 7 * FPS;     //  7 s
 const LEGAL_DURATION = 4 * FPS;  //  3 s  → frames 210–299
 
