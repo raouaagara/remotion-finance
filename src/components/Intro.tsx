@@ -52,7 +52,7 @@ export const Intro: React.FC<IntroProps> = ({ produit }) => {
         style={{
           color: theme.white,
           fontSize: 80,
-          fontWeight: 700,
+          fontWeight: 800,
           letterSpacing: "-1px",
           margin: 0,
           textAlign: "center",
