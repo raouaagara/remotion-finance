@@ -74,7 +74,7 @@ export const LegalNotice: React.FC<LegalNoticeProps> = ({ mentionLegale, produit
           style={{
             color: theme.accent,
             fontSize: 18,
-            fontWeight: 600,
+            fontWeight: 700,
             letterSpacing: "4px",
             textTransform: "uppercase",
             margin: 0,
