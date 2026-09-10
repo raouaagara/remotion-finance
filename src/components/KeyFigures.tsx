@@ -96,7 +96,7 @@ export const KeyFigures: React.FC<KeyFiguresProps> = ({ taux, duree }) => {
         alignItems: "center",
         justifyContent: "center",
         fontFamily: theme.fontFamily,
-        gap: 64,
+        gap: 72,
       }}
     >
       <p
