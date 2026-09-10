@@ -1,5 +1,5 @@
 export const theme = {
-  bg: "#0d0d0d",
+  bg: "#111111",
   white: "#FFFFFF",
   accent: "#E8303C",
   accentLight: "rgba(232,48,60,0.15)",
