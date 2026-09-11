@@ -69,7 +69,7 @@ export const Intro: React.FC<IntroProps> = ({ produit }) => {
         style={{
           color: theme.accent,
           fontSize: 22,
-          fontWeight: 500,
+          fontWeight: 600,
           letterSpacing: "6px",
           textTransform: "uppercase",
           marginTop: 28,
