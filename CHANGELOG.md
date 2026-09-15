@@ -18,3 +18,8 @@
 - Complete animation pipeline
 - Theme tokens finalized
 - Data-driven rendering confirmed
+
+## v1.0.0
+- Complete animation pipeline
+- Theme tokens finalized
+- Data-driven rendering confirmed
