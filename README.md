@@ -16,3 +16,7 @@ npm install
 ## Data format
 
 Edit `data.json` to customize the video content.
+
+## Data format
+
+Edit `data.json` to customize the video content.
